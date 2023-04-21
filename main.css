@@ -1,0 +1,121 @@
+/* Overrides for MDL */
+
+
+/* Header Color */
+
+.mdl-layout__header {
+    background-color: #fff;
+    color: #222222;
+    box-shadow: none;
+}
+
+/* Drawer Button */
+
+.mdl-layout__header .mdl-layout__drawer-button {
+    color: #222222;
+}
+
+/* Navigation Links */
+
+.mdl-layout__header-row .mdl-navigation__link {
+    color: coral;
+}
+
+.mdl-mini-footer {
+    background-color: #fff;
+    
+}
+
+/* Footer Logo */
+
+.mdl-logo {
+    color: #666666;
+}
+
+/* Footer Links */
+
+.mdl-mini-footer--link-list a, .mdl-mini-footer__link-list a {
+    color: coral;
+}
+
+/* MDL Layout Title */
+
+.mdl-layout-title {
+    font-size: .8em;
+    font-weight: 600;
+}
+
+.mdl-layout-title a {
+    text-decoration: none;
+    color: coral;
+    font-size: .8em;
+    font-weight: 600;
+}
+
+.mdl-layout-title a:hover {
+    color: cornflowerblue;
+}
+
+/* MDL Layout Content */
+
+.mdl-layout__content {
+    text-align: center;
+    margin-top: 6%;
+}
+
+
+/* Link Colors */
+
+/* MDL Navigation Link */
+
+.mdl-layout__drawer .mdl-navigation .mdl-navigation__link {
+    font-size: .8em;
+    color: coral;
+}
+
+a:hover, .mdl-layout__header-row .mdl-navigation__link:hover, .mdl-layout__drawer .mdl-navigation .mdl-navigation__link:hover {
+    color: cornflowerblue;
+}
+
+/* FAB Button Color */
+
+.mdl-button--fab.mdl-button--colored {
+    background: coral;
+}
+
+.mdl-button--fab.mdl-button--colored:hover {
+    background: cornflowerblue;
+}
+
+/* NON MDL Styles */
+
+/* Hero Title */
+
+#hero-title {
+    font-size: 4em;
+    margin-bottom: 0;
+}
+
+#hero-subtitle {
+    margin-bottom: 50px;
+}
+
+/* Page Content */
+
+#page-content {
+    text-align: center;
+    margin-top: auto 0;
+}
+
+/* Page Navigation Buttons */
+
+#nav-buttons button {
+    margin: 5% 2%;
+}
+
+/* Page Navigation Links */
+
+#page-nav {
+    list-style-type: none;
+    padding: 0;
+}
