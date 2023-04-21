@@ -60,7 +60,7 @@
 
 .mdl-layout__content {
     text-align: center;
-    margin-top: 6%;
+    margin-top: 10%;
 }
 
 
@@ -110,7 +110,7 @@ a:hover, .mdl-layout__header-row .mdl-navigation__link:hover, .mdl-layout__drawe
 /* Page Navigation Buttons */
 
 #nav-buttons button {
-    margin: 5% 2%;
+    margin: 2%;
 }
 
 /* Page Navigation Links */
