@@ -1,2 +1,2 @@
 # stephentruex.com
-Designer profile & portfolio of Stephen Truex, Web/UI/UX/Product Designer
+Portfolio website of Stephen Truex, Web and UX Designer
